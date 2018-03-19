@@ -1,0 +1,21 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\AplicacionServidor.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\AplicacionServidor.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\Protocolo.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\bin\Debug\Protocolo.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.GenerarAlarmas.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.MantenimientoClientes.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.Properties.Resources.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.ServidorGUI.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.csproj.GenerateResource.Cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionServidor\obj\Debug\AplicacionServidor.pdb

@@ -1,0 +1,23 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\AplicacionCliente.exe.config
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\AplicacionCliente.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\AplicacionCliente.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\Logs.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\Protocolo.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\log4net.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\Logs.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\bin\Debug\Protocolo.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.Principal.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.Properties.Resources.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.IniciarSesion.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.csproj.GenerateResource.Cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\AplicacionCliente\obj\Debug\AplicacionCliente.pdb
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\bin\Debug\AplicacionCliente.exe.config
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\obj\Debug\AplicacionCliente.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\obj\Debug\AplicacionCliente.pdb
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\bin\Debug\AplicacionCliente.exe.config
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\obj\Debug\AplicacionCliente.exe
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\AplicacionCliente\obj\Debug\AplicacionCliente.pdb

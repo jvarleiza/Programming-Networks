@@ -1,0 +1,61 @@
+2015-06-11 16:16:13,479 - Login de a
+2015-06-11 16:16:37,369 - Se programa alarma local para sonar en 20 segundos.
+2015-06-11 16:17:58,886 - Se ha programado alarma remota en 20sec para el cliente: c
+2015-06-11 16:19:02,310 - Se ha programado alarma remota para sonar en 10 segundos.
+2015-06-11 16:20:27,702 - Se ha programado alarma remota para sonar en 10 segundos.
+2015-06-11 16:21:14,090 - Se ha programado alarma remota para sonar en 20 segundos.
+2015-06-11 16:21:47,040 - Se ha desconetado el cliente a
+2015-06-14 20:39:21,479 - Login de a
+2015-06-14 20:39:45,479 - Se ha programado alarma remota en 20sec para el cliente: b
+2015-06-14 20:40:11,760 - Se ha programado alarma remota para sonar en 20 segundos.
+2015-06-14 20:40:33,363 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 20:41:19,224 - Se programa alarma local para sonar en 10 segundos.
+2015-06-14 20:41:21,633 - Se programa alarma local para sonar en 10 segundos.
+2015-06-14 20:41:22,914 - Se programa alarma local para sonar en 10 segundos.
+2015-06-14 20:42:07,414 - Se programa alarma local para sonar en 20 segundos.
+2015-06-14 21:26:42,125 - Login de a
+2015-06-14 21:26:54,852 - Se programa alarma local para sonar en 10 segundos.
+2015-06-14 21:26:57,056 - Se programa alarma local para sonar en 20 segundos.
+2015-06-14 21:26:59,368 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:00,556 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:03,124 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:03,562 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:03,968 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:04,202 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:27:04,593 - Se programa alarma local para sonar en 30 segundos.
+2015-06-14 21:42:05,419 - Login de a
+2015-06-14 21:42:30,637 - Se programa alarma local para sonar en 5 segundos.
+2015-06-14 21:42:52,214 - Se programa alarma local para sonar en 5 segundos.
+2015-06-14 21:42:54,082 - Se programa alarma local para sonar en 10 segundos.
+2015-06-14 21:42:55,915 - Se programa alarma local para sonar en 15 segundos.
+2015-06-14 21:42:57,749 - Se programa alarma local para sonar en 5 segundos.
+2015-06-14 21:45:28,397 - Se ha programado alarma remota en 10sec para el cliente: b
+2015-06-14 21:45:59,849 - Se ha programado alarma remota para sonar en 2 segundos.
+2015-06-14 21:46:47,235 - Se programa alarma local para sonar en 50 segundos.
+2015-06-14 21:48:55,158 - Se ha programado alarma remota en 0sec para el cliente: b
+2015-06-14 21:49:02,462 - Se ha desconetado el cliente a
+2015-06-14 21:49:05,487 - Login de a
+2015-06-14 21:49:24,545 - Se ha desconetado el cliente a
+2015-06-14 21:49:35,814 - Login de a
+2015-06-14 21:49:42,314 - Se ha desconetado el cliente a
+2015-06-14 21:50:04,982 - Login de a
+2015-06-14 21:50:17,387 - Se ha desconetado el cliente a
+2015-06-14 21:50:33,319 - Login de a
+2015-06-14 21:50:38,053 - Se ha desconetado el cliente a
+2015-06-14 21:50:45,264 - Login de a
+2015-06-14 21:51:15,052 - Se programa alarma local para sonar en 0 segundos.
+2015-06-14 21:51:43,525 - Se ha programado alarma remota en 0sec para el cliente: b
+2015-06-14 21:51:51,665 - Se ha programado alarma remota para sonar en 0 segundos.
+2015-06-14 21:52:04,035 - Se ha programado alarma remota para sonar en 0 segundos.
+2015-06-14 21:52:09,705 - Se ha programado alarma remota para sonar en 0 segundos.
+2015-06-14 21:52:22,168 - Se ha programado alarma remota en 0sec para el cliente: b
+2015-06-14 21:52:56,179 - Se ha desconetado el cliente a
+2015-06-14 21:53:02,787 - Login de a
+2015-06-14 21:54:16,651 - Login de a
+2015-06-14 21:55:06,689 - Se ha desconetado el cliente a
+2015-06-14 21:55:16,280 - Login de a
+2015-06-15 00:01:27,918 - Login de a
+2015-06-15 00:07:15,844 - Se programa alarma local para sonar en 0 segundos.
+2015-06-15 00:07:32,907 - Se ha programado alarma remota en 0sec para el cliente: c
+2015-06-15 00:07:33,250 - Se ha programado alarma remota en 0sec para el cliente: c
+2015-06-15 00:09:29,614 - Se programa alarma local para sonar en 10 segundos.

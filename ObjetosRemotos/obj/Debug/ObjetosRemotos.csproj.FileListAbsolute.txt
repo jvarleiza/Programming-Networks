@@ -1,0 +1,7 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\bin\Debug\ObjetosRemotos.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\bin\Debug\ObjetosRemotos.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\obj\Debug\ObjetosRemotos.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\obj\Debug\ObjetosRemotos.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ObjetosRemotos\obj\Debug\ObjetosRemotos.pdb

@@ -1,0 +1,7 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\bin\Debug\Logs.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\bin\Debug\Logs.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\obj\Debug\Logs.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\obj\Debug\Logs.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Logs\obj\Debug\Logs.pdb

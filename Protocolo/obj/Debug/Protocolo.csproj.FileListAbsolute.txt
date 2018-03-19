@@ -1,0 +1,5 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Protocolo\obj\Debug\Protocolo.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\Protocolo\obj\Debug\Protocolo.pdb

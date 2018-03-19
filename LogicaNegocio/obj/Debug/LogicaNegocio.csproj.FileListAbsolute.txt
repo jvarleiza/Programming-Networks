@@ -1,0 +1,4 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

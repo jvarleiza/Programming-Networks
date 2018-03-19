@@ -1,0 +1,6 @@
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\Pruebas\obj\Debug\Pruebas.pdb

@@ -1,0 +1,20 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\bin\Debug\ClienteOperacionMantenimiento.exe.config
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\bin\Debug\ClienteOperacionMantenimiento.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\bin\Debug\ClienteOperacionMantenimiento.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.Principal.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.Properties.Resources.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.UCEstadisticas.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.UCInfoCliente.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.UCInicio.resources
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.csproj.GenerateResource.Cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.pdb
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\bin\Debug\ClienteOperacionMantenimiento.exe.config
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.pdb
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\bin\Debug\ClienteOperacionMantenimiento.exe.config
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.exe
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ClienteOperacionMantenimiento\obj\Debug\ClienteOperacionMantenimiento.pdb

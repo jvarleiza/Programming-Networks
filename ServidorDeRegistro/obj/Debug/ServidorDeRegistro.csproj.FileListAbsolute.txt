@@ -1,0 +1,16 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\ServidorDeRegistro.exe.config
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\ServidorDeRegistro.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\ServidorDeRegistro.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\ObjetosRemotos.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\bin\Debug\ObjetosRemotos.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.exe
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.pdb
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\bin\Debug\ServidorDeRegistro.exe.config
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.exe
+C:\Users\JOAQUIN\Desktop\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.pdb
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\bin\Debug\ServidorDeRegistro.exe.config
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.exe
+C:\Users\JOAQUIN\Documents\ORT\Semestre 7\Programacion de redes\OBLIGATORIO 2\Entrega REDES\CODIGO\ServidorDeRegistro\obj\Debug\ServidorDeRegistro.pdb

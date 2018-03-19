@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/LogicaNegocio" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/LogicaNegocio" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:53612/ServiciosMantenimientoImp.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/System" />
+  <xs:complexType name="Alarma">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/System" base="q1:MarshalByRefObject">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AlarmaId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsLocal" type="xs:boolean" />
+          <xs:element minOccurs="0" name="HoraConfigurada" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="IdClienteReceptor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IdClienteRemoto" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Timer" type="xs:int" />
+          <xs:element minOccurs="0" name="YaFueDisparada" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Alarma" nillable="true" type="tns:Alarma" />
+</xs:schema>

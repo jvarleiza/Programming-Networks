@@ -1,0 +1,9 @@
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\ServidorOperacionMantenimiento.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\ServidorOperacionMantenimiento.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\LogicaNegocio.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\ObjetosRemotos.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\LogicaNegocio.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\bin\ObjetosRemotos.pdb
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\obj\Debug\ServidorOperacionMantenimiento.csprojResolveAssemblyReference.cache
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\obj\Debug\ServidorOperacionMantenimiento.dll
+C:\Users\JOAQUIN\Desktop\REDES prueba desde el repo\ServidorOperacionMantenimiento\obj\Debug\ServidorOperacionMantenimiento.pdb
